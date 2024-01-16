@@ -1,4 +1,4 @@
-![Stéganographie Challenge]([https://ecolepratique.com/wp-content/uploads/2022/08/Visuel_article_site-770x400.jpg](https://ecolepratique.com/wp-content/uploads/2022/08/Visuel_article_site-770x400.jpg))
+![Stéganographie Challenge]([https://ecolepratique.com/wp-content/uploads/2022/08/Visuel_article_site-770x400.jpg](https://ecolepratique.com/wp-content/uploads/2022/08/Visuel_article_site-770x400.jpg])
 
 # Stéganographie Challenge - Trouver le Flag Caché
 
