@@ -1,4 +1,4 @@
-![Stéganographie Challenge](https://ecolepratique.com/wp-content/uploads/2022/08/Visuel_article_site-770x400.jpg)
+![Stéganographie Challenge](https://www.cybersecurity-guide.com/wp-content/uploads/2021/10/steganographie-1280x640.jpg)
 
 # Stéganographie Challenge - Trouver le Flag Caché
 
